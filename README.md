@@ -46,4 +46,4 @@ Text GUI
 
 **Creator and Copyright Owner:** https://www.youtube.com/channel/UC8S2X9kdPqy7FMy0vEpKunA and https://www.youtube.com/channel/UCr8WVt4FKAxCCWCXNbtDs9A
 
-**With VapeClient Client, not allowed create videos, to install or publish to YouTube or other video sites**
+**With VapeLite Client, not allowed create videos, to install or publish to YouTube or other video sites**
