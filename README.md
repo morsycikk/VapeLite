@@ -11,7 +11,7 @@ Velocity,
 Throwpot,
 Refill,
 Sprint,
-WTap,
+WTap
 
 # Render
 Search,
@@ -19,11 +19,11 @@ NameTags,
 Tracers,
 StorageESP,
 ESP,
-Fullbright,
+Fullbright
 
 # Utility
 Scaffold,
-ChestSteal,
+ChestSteal
 
 # Diğer Özellikler
 External Rendering,
@@ -32,7 +32,7 @@ External GUI,
 Profiles,
 Friends,
 Macros,
-Text GUI,
+Text GUI
 
 # Ekran Görüntüleri:
 <img src="https://cdn.discordapp.com/attachments/774233676266995723/976281680715333672/unknown.png" />
