@@ -4,35 +4,35 @@ Minecraft oyununda tüm clientlerde ve sürümlerde stabil olarak çalışan, di
 
 # Yazılımda Bulunan Özellikler:
 # Combat
-AimAssist
-AutoClicker
-Reach
-Velocity
-Throwpot
-Refill
-Sprint
-WTap
+AimAssist,
+AutoClicker,
+Reach,
+Velocity,
+Throwpot,
+Refill,
+Sprint,
+WTap,
 
 # Render
-Search
-NameTags
-Tracers
-StorageESP
-ESP
-Fullbright
+Search,
+NameTags,
+Tracers,
+StorageESP,
+ESP,
+Fullbright,
 
 # Utility
-Scaffold
-ChestSteal
+Scaffold,
+ChestSteal,
 
 # Diğer Özellikler
-External Rendering
-Internal GUI
-External GUI
-Profiles
-Friends
-Macros
-Text GUI
+External Rendering,
+Internal GUI,
+External GUI,
+Profiles,
+Friends,
+Macros,
+Text GUI,
 
 # Ekran Görüntüleri:
 <img src="https://cdn.discordapp.com/attachments/774233676266995723/976281680715333672/unknown.png" />
